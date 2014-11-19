@@ -1,0 +1,30 @@
+/* General */
+
+body {
+  font-family: 'Nunito'; 
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+p {
+  font-weight: 300;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    min-width: 360px;
+    background-color: white;
+    border-radius: 1.25em;
+    margin-top: 2.00em;
+    margin-bottom: 2.00em;
+    text-align: center;
+}
