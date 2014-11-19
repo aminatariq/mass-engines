@@ -9,8 +9,8 @@ body {
   min-width: 360px;
   background-color: white;
   border-radius: 1.25em;
-  margin-top: 2.00em;
-  margin-bottom: 2.00em;
+  margin-top: 3.00em;
+  margin-bottom: 3.00em;
   text-align: center;
 }
 
@@ -24,4 +24,13 @@ h1 {
 
 p {
   font-weight: 300;
+}
+
+/* unvisited link */
+a:link {
+    color: #2b6a9e;
+}
+/* visited link */
+a:visited {
+    color: #2b6a9e;
 }
